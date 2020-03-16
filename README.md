@@ -12,4 +12,4 @@ We practised this skill that we learnt indepedently to test our knowledge and un
 
 ### How
 
-![Image of Code](githubURL)
+![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/screenSnipofCode.png)
