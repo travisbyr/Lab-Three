@@ -20,4 +20,4 @@ While learning and using this skill, I found out that if statements and case sta
 ![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png )
 
 ![Image of Code]()
-<img src="https://github.com/travisbyr/Lab-Three/blob/master/log2.png" width="50" height="100">
+<img src="https://github.com/travisbyr/Lab-Three/blob/master/log2.png" width="80">
