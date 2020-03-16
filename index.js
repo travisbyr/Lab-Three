@@ -1,5 +1,4 @@
-const mark = 100;
-
+const mark = 100
 //---------------------------------------------------
 
 switch (true) {
@@ -50,12 +49,6 @@ switch (true) {
 
 //---------------------------------------------------
 
-desc = mark <= 39 ? 'fail' : '';
-desc = mark <= 59 ? 'pass' : '';
-desc = mark <= 74 ? 'pass with merit' : '';
-desc = mark <= 100 ? 'pass with distinction' : '';
-
-/*
 if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade description variable to the corresponding description.
     var desc = "fail";
 } else if (mark <= 59) {
@@ -65,7 +58,6 @@ if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade descrip
 } else if (mark <= 100) {
     var desc = "pass with distinction"
 }
-*/
 
 //---------------------------------------------------
 
