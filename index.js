@@ -3,8 +3,7 @@ const mark = 100;
 //---------------------------------------------------
 
 switch (true) {
-  case mark <= 39: {
-    // If result is less than the mark percentage, set variable result to the corresponding grade.
+  case mark <= 39: { // If result is less than the mark percentage, set variable result to the corresponding grade.
     var result = "E";
     break;
   }
@@ -44,36 +43,25 @@ switch (true) {
     var result = "A+";
     break;
   }
-  default: {
-    // If user chosen mark does not apply to the above case statements(greater than 100), request a valid mark.
-    console.log("Please enter a valid mark.");
+  default: { // If user chosen mark does not apply to the above case statements(greater than 100), request a valid mark.
+      console.log("Please enter a valid mark.")
   }
 }
 
 //---------------------------------------------------
 
-if (mark <= 39) {
-  // If mark is less than a mark percentage, set grade description variable to the corresponding description.
-  var desc = "fail";
+if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade description variable to the corresponding description.
+    var desc = "fail";
 } else if (mark <= 59) {
-  var desc = "pass";
+    var desc = "pass"
 } else if (mark <= 74) {
-  var desc = "pass with merit";
+    var desc = "pass with merit"
 } else if (mark <= 100) {
-  var desc = "pass with distinction";
+    var desc = "pass with distinction"
 }
 
 //---------------------------------------------------
 
-if (mark <= 100) {
-  // If mark is less than 100, then its a valid mark, so print result/findings to user.
-  console.log(
-    "Your mark is " +
-      mark +
-      " out of 100. You receieved a result of " +
-      result +
-      ". This means you " +
-      desc +
-      "."
-  );
+if (mark <= 100) { // If mark is less than 100, then its a valid mark, so print result/findings to user. 
+    console.log("Your mark is " + mark + " out of 100. You receieved a result of " + result + ". This means you " + desc + "." );
 }
