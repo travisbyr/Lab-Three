@@ -43,7 +43,7 @@ switch (true) {
     var result = "A+";
     break;
   }
-  default: { // If user chosen mark does not apply to the above case statements, request a valid mark.
+  default: { // If user chosen mark does not apply to the above case statements(greater than 100), request a valid mark.
       console.log("Please enter a valid mark.")
   }
 }
