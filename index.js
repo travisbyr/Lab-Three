@@ -1,5 +1,6 @@
-const mark = 40;
+const mark = 100;
 
+//---------------------------------------------------
 
 switch (true) {
   case mark <= 39: { // If result is less than the mark percentage, set variable result to the corresponding grade.
@@ -47,6 +48,8 @@ switch (true) {
   }
 }
 
+//---------------------------------------------------
+
 if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade description variable to the corresponding description.
     var desc = "fail";
 } else if (mark <= 59) {
@@ -56,6 +59,8 @@ if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade descrip
 } else if (mark <= 100) {
     var desc = "pass with distinction"
 }
+
+//---------------------------------------------------
 
 if (mark <= 100) { // If mark is less than 100, then its a valid mark, so print result/findings to user. 
     console.log("Your mark is " + mark + " out of 100. You receieved a result of " + result + ". This means you " + desc + "." );
