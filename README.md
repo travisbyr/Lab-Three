@@ -17,3 +17,8 @@ We practised this skill that we learnt indepedently to test our knowledge and un
 While learning and using this skill, I found out that if statements and case statements are very similar to eachother and can almost be treated the same. For example, case statements can do almost just as much as 
 
 https://docs.google.com/document/d/1GBKdji0_HWKymXqziZJ6jTK5NjVFvrJepkStCnYxk40/edit
+
+
+![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png)
+
+![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log2.png)
