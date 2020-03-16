@@ -17,6 +17,7 @@ We practised this skill that we learnt indepedently to test our knowledge and un
 While learning and using this skill, I found out that if statements and case statements are very similar to eachother and can almost be treated the same. I also learnt that ternary operators are a simiplified solution to if statements. While learning these skills, I struggled to find a solution to completing the indpendent class activity. Although, I was able to overcome this issue by creating a plan that I developed using any ideas I came up to find a solution. By following the plan that I created, I was able to create an efficent solution to the class activity. Another problem that I struggled with was deciding when to use if and switch statements. To begin with I was not sure how to lay it out, so deciding this was quite hard to begin with. Although after developing a plan I was able to make an effective decision on when I should use if and switch statements.
 
 
-![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png)
+![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png )
 
-![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log2.png)
+![Image of Code]()
+<img src="https://github.com/travisbyr/Lab-Three/blob/master/log2.png" width="50" height="100">
