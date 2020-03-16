@@ -1,9 +1,8 @@
 const mark = 40;
-// Switch statement between  mark range %
-// If statement to display description, using larger mark percentage range
-// Print results
+
+
 switch (true) {
-  case mark <= 39: {
+  case mark <= 39: { // If result is less than the mark percentage, set variable result to the corresponding grade.
     var result = "E";
     break;
   }
@@ -43,12 +42,12 @@ switch (true) {
     var result = "A+";
     break;
   }
-  default: {
+  default: { // If user chosen mark does not apply to the above case statements, request a valid mark.
       console.log("Please enter a valid mark.")
   }
 }
 
-if ( mark <= 39 ) {
+if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade description variable to the corresponding description.
     var desc = "fail";
 } else if (mark <= 59) {
     var desc = "pass"
@@ -58,6 +57,6 @@ if ( mark <= 39 ) {
     var desc = "pass with distinction"
 }
 
-if (mark <= 100) {
+if (mark <= 100) { // If mark is less than 100, then its a valid mark, so print result/findings to user. 
     console.log("Your mark is " + mark + " out of 100. You receieved a result of " + result + ". This means you " + desc + "." );
 }
