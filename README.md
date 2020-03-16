@@ -10,14 +10,12 @@ We learned about how to use switch statements, if/else statements effectively. W
 
 ### Why
 
-We practised this skill that we learnt indepedently to test our knowledge and understanding of switch, if and else statements. By completing this task, we were able to have a greater understanding of how these statements can be implemented for real life uses and situations. We also learned about ternary operators, which are a simplier one liner version to if and switch statements. By using ternary opeartors, we are able to simplify our code and make it easier to read. Ternary operators will set a variable depending if the condition is true or false, using the same principal as an if statement. 
+We practised this skill that we learnt indepedently to test our knowledge and understanding of switch, if and else statements. By completing this task, we were able to have a greater understanding of how these statements can be implemented for real life uses and situations. We also learned about ternary operators, which are a simplier one liner version to if and switch statements. By using ternary opeartors, we are able to simplify our code and make it easier to read. Ternary operators will set a variable depending if the condition is true or false, using the same principal as an if statement.
 
 ### How
 
 While learning and using this skill, I found out that if statements and case statements are very similar to eachother and can almost be treated the same. I also learnt that ternary operators are a simiplified solution to if statements. While learning these skills, I struggled to find a solution to completing the indpendent class activity. Although, I was able to overcome this issue by creating a plan that I developed using any ideas I came up to find a solution. By following the plan that I created, I was able to create an efficent solution to the class activity. Another problem that I struggled with was deciding when to use if and switch statements. To begin with I was not sure how to lay it out, so deciding this was quite hard to begin with. Although after developing a plan I was able to make an effective decision on when I should use if and switch statements.
 
+![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png)
 
-![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png )
-
-![Image of Code]()
-<img src="https://github.com/travisbyr/Lab-Three/blob/master/log2.png" width="80">
+![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log2.png)
