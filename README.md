@@ -13,3 +13,7 @@ We learned about how to use switch statements, if/else statements effectively. W
 We practised this skill that we learnt indepedently to test our knowledge and understanding of switch, if and else statements. By completing this task, we were able to have a greater understanding of how these statements can be implemented for real life uses and situations.
 
 ### How
+
+While learning and using this skill, I found out that if statements and case statements are very similar to eachother and can almost be treated the same. For example, case statements can do almost just as much as 
+
+https://docs.google.com/document/d/1GBKdji0_HWKymXqziZJ6jTK5NjVFvrJepkStCnYxk40/edit
