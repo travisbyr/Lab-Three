@@ -72,6 +72,3 @@ if ( mark <= 39 ) { // If mark is less than a mark percentage, set grade descrip
 if (mark <= 100) { // If mark is less than 100, then its a valid mark, so print result/findings to user. 
     console.log("Your mark is " + mark + " out of 100. You receieved a result of " + result + ". This means you " + desc + "." );
 }
-
-
-

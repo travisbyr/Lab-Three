@@ -10,13 +10,11 @@ We learned about how to use switch statements, if/else statements effectively. W
 
 ### Why
 
-We practised this skill that we learnt indepedently to test our knowledge and understanding of switch, if and else statements. By completing this task, we were able to have a greater understanding of how these statements can be implemented for real life uses and situations.
+We practised this skill that we learnt indepedently to test our knowledge and understanding of switch, if and else statements. By completing this task, we were able to have a greater understanding of how these statements can be implemented for real life uses and situations. We also learned about ternary operators, which are a simplier one liner version to if and switch statements. By using ternary opeartors, we are able to simplify our code and make it easier to read. Ternary operators will set a variable depending if the condition is true or false. The same way as an if statement.
 
 ### How
 
-While learning and using this skill, I found out that if statements and case statements are very similar to eachother and can almost be treated the same. For example, case statements can do almost just as much as 
-
-https://docs.google.com/document/d/1GBKdji0_HWKymXqziZJ6jTK5NjVFvrJepkStCnYxk40/edit
+While learning and using this skill, I found out that if statements and case statements are very similar to eachother and can almost be treated the same. I also learnt that ternary operators are a simiplified solution to if statements. While learning these skills, I struggled to find a solution to completing the indpendent class activity. Although, I was able to overcome this issue by creating a plan that I developed using any ideas I came up to find a solution. By following the plan that I created, I was able to create an efficent solution to the classic activity. 
 
 
 ![Image of Code](https://github.com/travisbyr/Lab-Three/blob/master/log1.png)
